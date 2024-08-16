@@ -1,0 +1,39 @@
+body{
+    background-color: #7ed6df;
+background-image: linear-gradient(315deg, #7ed6df 0%, #000000 74%);
+    height: 100vh;}
+h1{
+    color: white;
+}
+.bd{
+    border: 2px solid white;
+    text-align: center;
+    margin-top: 3rem;
+    background: black;
+    padding: 3rem;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+}
+input{
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+}
+button{
+    border: none;
+    color: black;
+    border-radius: 3px;
+    padding: 5px;
+    
+}
+.movieList{
+    color: white;
+    margin: 3rem;
+}
+img{
+    width: 20%;
+    margin-top: 2rem;
+}
